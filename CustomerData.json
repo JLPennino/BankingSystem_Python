@@ -1,0 +1,68 @@
+{
+    "customerAccounts": [
+        {
+            "fname": "Adam",
+            "lname": "Smith",
+            "address[0]": 14,
+            "address[1]": "Wilcot Street",
+            "address[2]": "Bath",
+            "address[3]": "B5 5RT",
+            "current_account_no": 1234,
+            "current_balance": 1000.0,
+            "current_overdraft": 1250,
+            "current_interest": 0.1,
+            "savings_account_no": 6678,
+            "savings_balance": 5000.0,
+            "savings_overdraft": 3000,
+            "savings_interest": 0.1
+        },
+        {
+            "fname": "David",
+            "lname": "White",
+            "address[0]": 60,
+            "address[1]": "Holborn Viaduct",
+            "address[2]": "London",
+            "address[3]": "EC1A 2FD",
+            "current_account_no": 1235,
+            "current_balance": 3200.0,
+            "current_overdraft": 1250,
+            "current_interest": 0.1,
+            "savings_account_no": 6679,
+            "savings_balance": 700.0,
+            "savings_overdraft": 1750,
+            "savings_interest": 0.1
+        },
+        {
+            "fname": "Alice",
+            "lname": "Churchil",
+            "address[0]": 5,
+            "address[1]": "Cardigan Street",
+            "address[2]": "Birmingham",
+            "address[3]": "B4 7BD",
+            "current_account_no": 1236,
+            "current_balance": 18000.0,
+            "current_overdraft": 10000,
+            "current_interest": 0.1,
+            "savings_account_no": 6680,
+            "savings_balance": 40000.0,
+            "savings_overdraft": 20000,
+            "savings_interest": 0.1
+        },
+        {
+            "fname": "Ali",
+            "lname": "Abdallah",
+            "address[0]": 44,
+            "address[1]": "Churchill Way West",
+            "address[2]": "Basingstoke",
+            "address[3]": "RG216YR",
+            "current_account_no": 1237,
+            "current_balance": 40.0,
+            "current_overdraft": 100,
+            "current_interest": 0.1,
+            "savings_account_no": 6681,
+            "savings_balance": 150.0,
+            "savings_overdraft": 250,
+            "savings_interest": 0.1
+        }
+    ]
+}
